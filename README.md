@@ -31,11 +31,13 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**  
   
 ```bash  
-git clone https://github.com/HalimLuman/portfolio-website-nextjs15```  
+git clone https://github.com/HalimLuman/portfolio-website-nextjs15
+```  
   
   
 ```bash  
-npm install```  
+npm install
+```  
   
 **Set Up Environment Variables**  
   
@@ -51,6 +53,7 @@ AUTH_GITHUB_SECRET=
 **Running the Project**  
   
 ```bash  
-npm run dev```  
+npm run dev
+```  
   
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.  
